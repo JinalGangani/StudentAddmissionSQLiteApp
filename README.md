@@ -1,4 +1,4 @@
-# StudentAddmissionSQLiteApp
+# StudentAddmissionSQLiteApp(College Work)
  
 ### This is the simple Student Admission System using SQlite:
 
